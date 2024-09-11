@@ -15,8 +15,6 @@ https://chenhuijing.com/blog/understanding-positioning-in-css/
 **Figma**
 https://www.figma.com
 
-https://www.youtube.com/watch?v=n4R2E7O-Ngo
-
 **Less**
 https://lesscss.org/
 
